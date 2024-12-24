@@ -1,0 +1,350 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Purple+Purse&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url(https://db.onlinewebfonts.com/c/6b2d532d2a62dade858748f086e69043?family=PP+Eiko+Medium);
+.main{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(./image/image\ \(9\).png);
+    height: 921px;
+}
+body{
+    padding: 0%;
+    margin: 0%;
+}
+
+.circle{
+    width: 25px;
+}
+
+.review{
+    color: white;
+    font-family: "Roboto", serif;
+}
+.header1{
+    display: flex;
+    gap: 90px;
+    align-items: center;
+}
+.header2{
+    display: flex;
+    align-items: center;
+}
+.links1{
+    display: flex;
+    gap: 32px;
+}
+header{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 28px;
+    display: flex;
+    justify-content: space-between;
+}
+.experience{
+    font-weight: 100;
+    text-align: center;
+    font-family: "PP Eiko Medium";
+    font-size: 69px;
+    color: aliceblue;
+    margin-bottom: 0px;
+}
+.experience::last-line{
+    text-align: center;
+}
+.advanced{
+    text-align: center;
+    color: white;
+}
+.seemore{
+    padding-left: 41px;
+
+    padding-bottom: 21px;
+    padding-top: 21px;
+    margin: auto;
+    display: block;
+    padding-right: 41px;
+    background: linear-gradient(180deg, #94C3D3 0%, #2E7DA4 100%);
+    box-shadow: 0 0 3px #94C3D3 , 0 0 5px #2E7DA4;
+    border-radius: 100px;
+    border: none;
+}
+
+.headphone{
+display: flex;
+justify-content: center;
+position: relative;
+/* align-items: center; */
+width: 100%;
+background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #DAE9F1 71.66%);
+height: 500px;
+margin: auto;
+}
+.firstmain{
+    background: #0E181D;
+    padding-left:101px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 468px;
+    padding-right: 100px;
+}
+.product{
+    color: white;
+    font-weight: 400;
+}
+.open{
+    color: white;
+    line-height: 40px;
+    font-size: smaller;
+}
+.icee{
+    padding-left: 41px;
+    padding-right: 41px;
+    padding-top: 21px;
+    padding-bottom: 21px;
+    border-radius: 48px;
+    border: 1px solid white;
+    background: linear-gradient(180deg, #94C3D3 0%, #2E7DA4 100%);
+    color: white;
+}
+
+.photo{
+    position: relative;
+    bottom: 55px;
+    height: 576px;
+}
+
+.secondmain{
+    padding-left: 101px;
+    padding-right: 100px;
+    padding-top: 93px;
+
+}
+.nose{
+    color: #B1B1B1;
+    margin: 11px 0px 15px 0px;
+}
+.bright{
+    color: #B1B1B1;
+    font-size: 18px;
+    margin: 0;
+}
+.firstpart{
+    display: flex;
+    gap: 78px;
+}
+.title{
+    color: #575757;
+    font-family: ro;
+}
+.audio{
+    font-family: "Roboto", sans-serif;
+}
+.flextext {
+    display: flex;
+    gap: 87px;
+    margin-top: 63px;
+    align-items: center;
+    margin-bottom: 190px;
+}
+.flextext1{
+    display: flex;
+    gap: 164px;
+    margin-top: 63px;
+    align-items: center;
+    margin-bottom: 190px;
+}
+.flextext2{
+    display: flex;
+    gap: 164px;
+    margin-top: 63px;
+    align-items: center;
+    margin-bottom: 171px;
+}
+
+.thirdmain{
+    background: #0E181C;
+    padding-bottom: 179px;
+    padding-top: 156px;
+}
+.where{
+    font-weight: 400;
+    color: white;
+    text-align: center;
+    font-family: "PP Eiko Medium";
+    font-size: 63px;
+}
+video{
+    margin: auto;
+    display: block;
+}
+iframe{
+    margin: auto;
+    display: block;
+    /* width: 1000px; */
+    height: 763px;
+}
+.the{
+    color: white;
+    text-align: center;
+    margin-top: 110px;
+    font-size: 20px;
+}
+.fourthmain{
+    background: #1F4A65;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top:72px;
+}
+.Our{
+    text-align: center;
+    color: white;
+    font-size: 56px;
+    font-weight: 400;
+    font-family: "PP Eiko Medium";
+    margin: 0;
+    margin-bottom: 98px;
+}
+.newhead{
+    font-family: "Roboto", serif;
+    color: white;
+}
+.pricess{
+    font-family: "Roboto", serif;
+    color: white;
+}
+.buy{
+    padding-top: 12px;
+    padding-bottom:12px;
+    padding-right: 33px;
+    padding-left: 33px;
+    border-radius: 9999px;
+    background: linear-gradient(180deg, #94C3D3 0%, #2E7DA4 100%);
+    border: 1px solid white;
+}
+.fifthdolar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.headprice1{
+    display: flex;
+    gap: 20px;
+}
+.headprice2{
+    display: flex;
+    gap: 20px;
+}
+
+.headghone{
+    width: 334px;
+}
+.headprice{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    justify-content: center
+}
+.say{
+    font-size: 48px;
+    text-align: center;
+    font-family: "PP Eiko Medium";
+    font-weight: 100;
+}
+.art{
+    text-align: center;
+    line-height: 30px;
+    font-size: 20px;
+}
+.heart{
+    color: white;
+    font-family: "Roboto", serif;
+    font-size: 17px;
+    margin-top: 39px;
+    white-space: nowrap;
+}
+.coment1{
+    background: #0E181C;
+    padding-bottom: 60px;
+    padding-left: 33px;
+    padding-top: 33px;
+    padding-right: 33px;
+}
+.paul{
+    color: white;
+    font-family: "Roboto", serif;
+    margin: 0;
+    margin-bottom: 10px;
+}
+.coments{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.people{
+    display: flex;
+    align-items: center;
+    gap: 35px;
+}
+.fifthmain {
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 150px;
+}
+.emptydiv {
+    height: 282px;
+    position: relative;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #DAE9F1 71.66%);
+    top: -282px;
+}
+img.opacity {
+    width: 700px;
+    height: 456px;
+    position: relative;
+    top: 42px;
+}
+footer{
+    padding-top: 103px;
+    padding-left: 100px;
+    background: #1F4A65;
+
+}
+.airdropss{
+    color:#CECECE;
+}
+input{
+    border:  1px solid #FFFFFF;
+    width: 400px;
+    height: 43px;
+    background-color: transparent;
+    border-radius: 999px;
+    padding-left: 23px;
+    margin-top: 59px;
+    margin-bottom: 51px;
+}
+input::placeholder{
+    color: #CECECE;
+}
+.subscribe{
+    color: white;
+    background: linear-gradient(180deg, #7DA3B0 0%, #2E7DA4 100%);
+    padding-top: 13px;
+    padding-bottom: 13px;
+    padding-left: 18px;
+    padding-right: 18px;
+    border-radius: 999px;
+    border: none;
+    position: relative;
+    left: -104px;
+}
+.social{
+    display: flex;
+    gap: 14px;
+    margin-bottom: 19px;
+}
+
+.z2024{
+    color: white;
+    font-family: "Roboto", serif;
+}
